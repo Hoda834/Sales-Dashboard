@@ -1,1 +1,315 @@
-
+Part No.,Description,Order,Cost ,Price ,Model,Inventory Turnover,Sales 2024,Sales 2023,Inventory,Category,Annual Target
+20532237,Filter,183,182.66,9000,FH12,Fast-moving,145,134,285,Lubricant,365
+20855371,Trailer brake,60,37.19,1700,FH13,Fast-moving,44,0,196,Engine,231
+21041296,Small air intake filter,46,385.4,10500,FM9,Medium-moving,34,90,205,Lubricant,184
+22239219,Lamp,48,1586.51,1951,FH4,Fast-moving,25,32,88,Body,96
+22239217,Lamp,47,1586.51,1951,FH4,Fast-moving,23,33,90,Body,94
+82485683,WIPER BLADE       ,27,89.23,110,FH4,Fast-moving,25,3,27,Body,53
+20530103,Oil pump,120,140.43,8000,FH13,Dead stock,12,12,144,Engine,36
+1547254,Exhaust valve,0,18.3,23,FH12,Slow-moving,1,0,29,Engine,31
+3192951,O-ring bushing,0,577.95,32000,FH12,Slow-moving,0,4,33,Gearbox,30
+20567633,Mirror arm,5,420.29,10000,FH12,Medium-moving,64,37,0,Body,20
+82151157,side indicator lamp; left,9,318.88,392,FH4,Fast-moving,27,11,6,Body,17
+22154235,Power window switch,8,476.29,586,FH4,Fast-moving,15,0,5,Body,16
+82151205,side indicator lamp; right,8,318.88,392,FH4,Fast-moving,27,11,5,Body,16
+82884080,air duct,8,73.13,90,FH4,Fast-moving,21,2,1,Body,15
+82884084,air duct,8,73.13,90,FH4,Fast-moving,21,2,1,Body,15
+82142373,foot board; right,6,391.1,481,FH4,Fast-moving,15,6,7,Body,11
+21578293,Glass,6,196.48,242,FH4,Fast-moving,6,0,9,Body,11
+84035943,WIPER BLADE,15,82.92,100,FH12,Medium-moving,0,12,40,Body,11
+82141971,foot board;left,4,391.1,481,FH4,Fast-moving,14,6,6,Body,8
+21874450,panel,4,437.48,538,FH4,Fast-moving,7,1,7,Body,8
+22332594,Position lamp R,4,598.21,736,FH4,Fast-moving,20,10,4,Body,8
+84004927,Auxiliary mirror,3,370.22,455,FH4,Fast-moving,11,5,6,Body,6
+21874457,Lamp,3,437.48,538,FH4,Fast-moving,11,1,2,Body,6
+22332595,Position lamp L,3,598.21,736,FH4,Fast-moving,21,12,3,Body,5
+21634017,pressure sensor; Crankcase pressure,3,337.22,415,FH4,Fast-moving,2,0,8,Body,5
+21426987,speed monitor,1,230.06,283,FH4,Medium-moving,6,0,4,Body,4
+22154240,Power window switch,2,476.29,586,FH4,Fast-moving,7,2,5,Body,4
+82943356,Rear view mirror L,2,1535.28,1888,FH4,Fast-moving,21,11,1,Body,4
+20467053,Front grille trim,1,1360.2,50000,FH12,Medium-moving,9,0,0,Body,2
+82151656,foot plate; right,1,344.48,424,FH4,Fast-moving,10,2,1,Body,2
+82859306,foot plate; right,1,344.48,424,FH4,Fast-moving,11,2,0,Body,2
+22387296,vehicle speed sensor,1,599.07,22000,FH12,Medium-moving,5,0,3,Body,2
+82142329,foot plate; left,1,344.48,424,FH4,Fast-moving,7,3,4,Body,1
+3986433,Front stabilizer arm,1,464.35,15000,FH12,Medium-moving,8,0,0,Body,1
+82142327,foot plate; left,1,416.79,513,FH4,Fast-moving,9,3,2,Body,1
+82943538,Rear view mirror R,1,1535.28,1888,FH4,Fast-moving,21,12,0,Body,1
+20430382,Oil pump,0,147.92,5000,FH12,Dead stock,0,0,7,Engine,1
+20499244,Front bumper guard bracket,0,572.58,12000,FH13,Slow-moving,2,0,5,Body,1
+21190827,Fan belt,0,182.07,5000,FM,Medium-moving,6,0,1,Engine,0
+84014254,sun visor,0,1374.54,1691,FH4,Fast-moving,7,1,1,Body,0
+82141521,foot board; right,0,569.05,700,FH4,Fast-moving,9,5,3,Body,0
+82151654,foot plate; right,0,416.79,513,FH4,Fast-moving,9,4,2,Body,0
+21311610,COVER,0,58.37,72,FH4,Fast-moving,0,1,7,Body,0
+21285163,temperature sensor,1,380.14,468,FH4,Medium-moving,1,6,11,Body,1
+84094705,AC compressor,1,3917.31,95000,FH13,Medium-moving,4,3,5,Engine,1
+82183078,Door (???) ,1,5391.79,6632,FH4,Fast-moving,6,1,1,Body,1
+21596642,Oil filter base gasket,1,778.78,35000,FH13,Fast-moving,8,6,4,Engine,1
+20456129,Cab base adapter,0,1320.68,50000,FH13,Dead stock,0,0,5,Body,2
+1674083,Water tank door,0,91.09,2000,FH13,Slow-moving,1,0,4,Body,2
+3183953,Exhaust tank,0,1115.6,45000,FH12,Slow-moving,1,2,6,Body,2
+21531072,temperature sensor,1,75.68,93,FH4,Fast-moving,1,5,9,Body,2
+22429963,Air pressure sensor,0,4897.8,155000,FH13-480,Slow-moving,2,0,3,Gearbox,2
+21714563,level sensor,1,955.72,1176,FH4,Fast-moving,4,0,1,Body,2
+20479636,Intake valve,0,37.38,1500,FM9,Slow-moving,5,5,5,Engine,2
+82183386,Door (???) ,1,5391.79,6632,FH4,Fast-moving,6,2,1,Body,2
+82278930,position lamp; left,2,89.48,110,FH4,Fast-moving,0,1,5,Body,3
+82278938,position lamp; right,2,89.48,110,FH4,Fast-moving,0,1,5,Body,3
+20787709,Bearing,0,78.32,1000,FH12,Slow-moving,0,0,4,Engine,3
+21664214,control unit,2,3659.52,4501,FH4,Fast-moving,2,0,2,Body,3
+21695307,position sensor,1,1067.68,1313,FH4,Medium-moving,3,0,1,Body,3
+21297917,Lamp,1,803.69,30000,FH13,Medium-moving,3,1,2,Body,3
+21297918,Lamp,1,803.69,30000,FH13,Medium-moving,3,1,2,Body,3
+22089734,WINDSCREEN,2,1732.13,2131,FH4,Fast-moving,4,2,2,Body,3
+82819477,cover panel; right,2,747,919,FH4,Fast-moving,10,7,1,Body,4
+82136982,foot board; left,2,569.05,700,FH4,Fast-moving,10,7,1,Body,4
+20854644,Mirror,1,220.58,11500,FH12,Medium-moving,0,0,3,Body,4
+20572441,Front tray rubber gasket,1,,450,FH12,Medium-moving,0,2,5,Body,4
+20374282,Sensor,0,293.95,15000,FH12,Slow-moving,0,1,4,Body,4
+1521878,Piston ring kit,2,578.22,37000,FH12,Fast-moving,0,0,3,Gearbox,4
+20857657,Diesel fuel pump,0,6113.69,300000,FH13,Dead stock,0,0,3,Engine,4
+82819482,cover panel; left,2,747,919,FH4,Fast-moving,11,7,0,Body,4
+20562477,Steering wheel,1,1537.35,30000,FH13,Medium-moving,1,0,2,Body,4
+82166469,sun visor,2,988.42,1216,FH4,Fast-moving,1,2,4,Body,4
+20382529,Clutch master cylinder,2,335.88,6000,FH13,Fast-moving,2,0,1,Body,4
+3092710,Metal oil pan gasket,2,1711.85,70000,FH13,Fast-moving,3,0,0,Gearbox,4
+21585801,Cartel,2,6781.47,8341,FH4,New product,0,0,2,,5
+20455908,Heater switch,3,142.64,5000,FH12,Fast-moving,0,2,4,Body,5
+20869387,Filter water bowl,2,770.8,34000,FH13,Medium-moving,0,0,2,Engine,5
+1521900,AC compressor,0,1031.81,35000,FH12,Slow-moving,0,1,3,Engine,5
+20397619,Fan and blade,0,3485.15,120000,FH12-420,Dead stock,0,0,2,Engine,5
+82835601,Cab rear lock,3,348.04,428,FH4,Fast-moving,1,0,1,,5
+84013224,headlamp protector; left,3,284.82,350,FH4,Fast-moving,1,15,16,Body,5
+21214534,position lamp; white,3,129.06,159,FH4,Fast-moving,1,3,4,Body,5
+21516454,Air pressure sensor,3,5907.91,7267,FH4,Fast-moving,1,1,2,Body,5
+84210168,Cap,3,4353.78,5355,FH4,Fast-moving,2,0,0,,5
+82835554,Cap,3,348.04,428,FH4,Fast-moving,2,0,0,,5
+21296874,sensor; right,3,459.29,565,FH4,Fast-moving,3,3,2,Gearbox,5
+20443002,Cab rear lock,2,1515.07,30000,FH13,New product,0,0,1,Body,6
+21122123,duct,2,2836.79,3489,FH4,Medium-moving,0,1,2,Body,6
+21318121,Heater switch,2,1851.59,70000,FH13,Medium-moving,0,5,6,Body,6
+21190825,Panel,0,5202.9,180000,FH13,Slow-moving,0,0,1,Body,6
+20508011,Sensor,3,356.5,15000,FH12,Fast-moving,0,0,1,Body,6
+21578244,Gear lever cable,3,100.64,124,FH4,Fast-moving,0,4,5,Body,6
+1521879,Gear lever cable,2,578.22,37000,FH12,Medium-moving,0,0,1,Gearbox,6
+21294062,Clutch bearing,2,220.85,12000,FH13,Medium-moving,0,0,1,Gearbox,6
+20390737,Sensor ,0,,11000,FH12,Slow-moving,0,2,3,Gearbox,6
+20806454,Disck,3,3176.9,3908,FH4,Fast-moving,0,1,2,Gearbox,6
+20555313,Differential oil seal,2,264.61,18000,FH12,New product,0,0,1,Engine,6
+20505537,Oil cooler,2,2878.09,120000,FH13,Medium-moving,0,2,3,Engine,6
+270950,Sliding gear (gearbox),3,91.28,5500,FH12,Fast-moving,0,6,7,Engine,6
+21189159,Windshield washer pump,2,383.91,13000,FH12,Medium-moving,1,1,1,Body,6
+21031573,Dashboard,2,5291.53,210000,FH13,Medium-moving,1,0,0,Body,6
+22445004,VECU,3,1941.23,2388,FH4,Fast-moving,1,0,0,Body,6
+22085772,modulator,2,2044.12,2514,FH4,Medium-moving,1,2,2,Gearbox,6
+20920600,silencer,2,32419.78,39876,FH4,Medium-moving,2,1,0,Body,6
+20567635,Mirror cover,3,420.29,10000,FH12,Fast-moving,2,1,0,Body,6
+21296875,sensor; left,3,466.05,573,FH4,Fast-moving,2,3,2,Gearbox,6
+82360122,front panel,3,4681.58,5758,FH4,Fast-moving,4,20,17,Body,6
+20826591,Wiper blade,2,,6500,FH13,Medium-moving,0,0,0,Body,7
+20850557,Sensor,2,963.49,25000,FH12,Medium-moving,0,0,0,Body,7
+24427534,Battery cut-off switch,2,1311.83,28000,FH12,Medium-moving,0,0,0,Body,7
+20379172,Cap,2,674.81,25000,FM9,Medium-moving,0,0,0,Body,7
+21001676,Lamp,0,2122.69,90000,FH12,Slow-moving,0,2,2,Body,7
+21001663,Lamp,0,1960.92,80000,FH12,Dead stock,0,0,0,Body,7
+20826213,Lamp,0,163.19,6000,FH12,Dead stock,0,0,0,Body,7
+20424060,Air pressure sensor,0,273.97,8000,FH12,Dead stock,0,0,0,Body,7
+21244773,grille,4,328.47,404,FH4,Fast-moving,0,2,2,Body,7
+21660485,sensor,4,404.11,497,FH4,Fast-moving,0,0,0,Body,7
+20453600,Steering wheel,4,649.49,17000,FH12,Fast-moving,0,0,0,Body,7
+1619664,Panel,4,1581.4,70000,FH12,Fast-moving,0,0,0,Body,7
+1619665,Water tank door,4,1493.53,50000,FH12,Fast-moving,0,0,0,Body,7
+3090708,Exhaust tank,4,3304.63,130000,FH12,Fast-moving,0,0,0,Body,7
+21478760,Cab base adapter,4,437.48,20000,FH13-440,Fast-moving,0,0,0,Body,7
+21148852,Rear cabin plate,4,293.89,17000,FH13,Fast-moving,0,1,1,Body,7
+20360266,Front grille,4,4681.58,130000,FH12,Fast-moving,0,0,0,Body,7
+82322924,Front grille,4,7695,120000,FH13,Fast-moving,0,0,0,Body,7
+82355678,Lamp,4,,7500,FH13,Fast-moving,0,0,0,Body,7
+1606839,Front air guard grille,4,34.04,1800,FH12,Fast-moving,0,0,0,Body,7
+20360542,Door,4,5391.79,265000,FH12,Fast-moving,0,0,0,Body,7
+20360543,Door,4,5391.79,275000,FH12,Fast-moving,0,0,0,Body,7
+20741782,Front bumper,4,7779.05,450000,NH12,Fast-moving,0,0,0,Body,7
+20843850,Intermediate gearbox gear,4,311.54,19000,FH12,Fast-moving,0,0,0,Body,7
+20544814,Engine hood,4,21013.68,750000,NH12,Fast-moving,0,0,0,Body,7
+8141235,Side guard,4,502.07,21000,FH12,Fast-moving,0,0,0,Body,7
+20379171,Cap,4,674.81,25000,FM9,Fast-moving,0,0,0,Body,7
+20425122,Central lock motor,4,582.55,32000,FH13,Fast-moving,0,0,0,Body,7
+20976003,Filter,4,143.42,3500,FH12,Fast-moving,0,0,0,Lubricant,7
+20835246,Intermediate gearbox gear,2,609.69,30000,FH12,Medium-moving,0,0,0,Gearbox,7
+1521422,Air spring,0,1445.31,120000,FH12,Slow-moving,0,2,2,Gearbox,7
+20539764,Oil pressure sensor,0,9816.82,160000,FH12,Slow-moving,0,1,1,Gearbox,7
+21068286,Exhaust gasket,0,1007.06,56000,FH12,Slow-moving,0,0,0,Gearbox,7
+3192614,Fan and blade,0,41.35,2000,FH12,Dead stock,0,0,0,Gearbox,7
+8172640,Oil pump,0,2167.96,110000,FH12,Dead stock,0,0,0,Gearbox,7
+20741703,Diesel fuel pump,0,3818.78,80000,FH12,Dead stock,0,0,0,Gearbox,7
+20810985,Diesel fuel pump,0,5400.5,130000,FH13,Dead stock,0,0,0,Gearbox,7
+20805850,Water pump housing,0,99.1,3000,FH13,Dead stock,0,0,0,Gearbox,7
+1546480,Crankshaft rear oil seal,0,119.89,4000,FH12,Dead stock,0,0,0,Gearbox,7
+3986328,Water pipe seal,4,3155.57,70000,FH12,Fast-moving,0,0,0,Gearbox,7
+20367533,Exhaust kit,4,759.15,40000,FH13,Fast-moving,0,0,0,Gearbox,7
+1524838,Differential oil seal,4,129.19,7000,FH12,Fast-moving,0,0,0,Gearbox,7
+3192615,Differential oil seal,4,274.18,13000,FH12,Fast-moving,0,0,0,Gearbox,7
+21593944,Differential oil seal,4,3800,5000,FH12-460,Fast-moving,0,0,0,Gearbox,7
+20538307,AC compressor,2,,90000,FH12,Medium-moving,0,1,1,Engine,7
+20430564,AC compressor,0,4724.02,85000,FH12,Slow-moving,0,1,1,Engine,7
+20838388,Diesel fuel pump,0,1493.42,65000,FH12,Dead stock,0,0,0,Engine,7
+20734268,Water pump housing,0,1252.55,60000,FH12,Dead stock,0,0,0,Engine,7
+20450240,Brake disc,4,3658.92,120000,FH12-420,Fast-moving,0,0,0,Engine,7
+20824906,Brake disc,4,3179.55,130000,FH13,Fast-moving,0,0,0,Engine,7
+3169582,Brake disc,4,401.21,21000,FH13,Fast-moving,0,0,0,Engine,7
+20430367,Brake disc,4,124.46,7000,FH12,Fast-moving,0,0,0,Engine,7
+20712534,Engine belt,4,,11000,FH13,Fast-moving,0,0,0,Engine,7
+24426247,Turbocharger,4,6113.69,300000,FH12,Fast-moving,0,0,0,Engine,7
+20411199,Valve,4,1980.48,110000,FH12,Fast-moving,0,0,0,Engine,7
+8148259,Valve,4,183.78,14000,FM,Fast-moving,0,0,0,Engine,7
+20747511,Valve,4,433.58,23000,FH13,Fast-moving,0,0,0,Engine,7
+20510082,Valve,4,86.99,3000,FH12,Fast-moving,0,0,0,Engine,7
+1547562,Valve,4,204.81,12000,FH12,Fast-moving,0,0,0,Engine,7
+20706889,Sensor,2,722.62,40000,FH12,Medium-moving,1,1,0,Body,7
+1594228,Sensor ,4,397.68,489,FH12,Fast-moving,2,2,0,Gearbox,7
+85112559,Engine door gasket,4,395.86,18000,FH12,Fast-moving,2,2,0,Engine,7
+20853484,Heater relay,0,536.94,14000,FH12,Slow-moving,0,1,0,Body,8
+21001668,Lamp,4,1960.92,80000,FH12,Fast-moving,0,1,0,Body,8
+82144656,Sun visor cover,4,287.4,15000,FH13,Fast-moving,0,1,0,Body,8
+20582206,Exhaust gasket,0,,22000,FH12,Slow-moving,0,1,0,Gearbox,8
+20518642,sealing,4,153.27,189,FH4,Fast-moving,0,1,0,Gearbox,8
+21247147,Sensor ,4,269.26,16000,FH12,Fast-moving,0,1,0,Gearbox,8
+21002852,Sensor ,4,,32000,FM9,Fast-moving,0,2,1,Gearbox,8
+20429343,Air compressor,2,6664.36,220000,FH12,Medium-moving,0,1,0,Engine,8
+3095479,Diesel return valve,2,240.87,7000,FH12,Medium-moving,0,1,0,Engine,8
+20730366,Exhaust valve,0,2227.92,40000,FH12,Slow-moving,0,1,0,Engine,8
+1628246,Gearbox gear,4,81.15,100,FH12,Fast-moving,0,2,1,Engine,8
+21663562,sensor; right,4,357.42,440,FH4,Fast-moving,3,4,0,Gearbox,8
+21941702,panel,5,2219.58,2730,FH4,Fast-moving,5,6,0,Body,9
+3165423,Engine door gasket,2,6342.7,350000,FH12,Fast-moving,0,0,0,Engine,9
+21001674,Lamp,3,2122.69,90000,FH12,Medium-moving,0,2,0,Body,9
+82921563,Battery cut-off switch,5,1224.43,35000,FH13,Fast-moving,0,2,0,Body,9
+1629499,Cap,5,170.17,1200,FH12,Fast-moving,0,2,0,Body,9
+21146952,Heater relay,5,1198.49,45000,FH13,Fast-moving,0,2,0,Body,9
+21343551,Air spring,3,,38000,FM9,Medium-moving,0,2,0,Gearbox,9
+20582215,Cooler housing gasket FH13,3,,22000,FH12,Medium-moving,0,2,0,Gearbox,9
+20760515,Oil filter base gasket,5,517.01,25000,FH12,Fast-moving,0,3,1,Gearbox,9
+20776783,Oil filter base gasket,5,1156.25,65000,FH12,Fast-moving,0,2,0,Gearbox,9
+20758237,Gearbox gear,5,2462.73,150000,FM9,Fast-moving,0,2,0,Engine,9
+1547255,Valve,5,49000,60000,FH12,Fast-moving,0,2,0,Engine,9
+20480827,Valve,5,165.71,6500,FM9,Fast-moving,0,2,0,Engine,9
+20904803,Metal oil pan gasket,2,2360.62,230000,FH12,Fast-moving,0,1,0,Gearbox,10
+21296829,sensor,3,362.3,446,FH4,Medium-moving,0,5,2,Body,10
+82307443,Rear cabin plate,5,8193.11,10078,FH4,Fast-moving,0,3,0,Body,10
+82171603,foot plate; left,5,344.48,424,FH4,Fast-moving,0,3,0,Body,10
+21478759,Lamp,5,437.48,25000,FH13-480,Fast-moving,0,3,0,Body,10
+82214183,Door frame,5,12906.98,15876,FH4,Fast-moving,0,3,0,Body,10
+20431584,Brake disc,5,2282.55,70000,FH13,Fast-moving,0,3,0,Engine,10
+21497416,Valve,5,356.79,22000,FM,Fast-moving,0,3,0,Engine,10
+20817742,Oil filter base gasket,5,67.45,5500,FH12,Fast-moving,0,4,1,Engine,10
+20524936,Sensor,5,366.13,23000,FH12,Fast-moving,1,6,2,Body,10
+21663559,sensor; left,5,357.42,440,FH4,Fast-moving,1,5,1,Gearbox,10
+84013223,headlamp protector; right,6,284.82,350,FH4,Fast-moving,13,17,2,Body,11
+82491903,Front grille,6,1560.07,1919,FH4,Fast-moving,13,19,4,Body,11
+82141524,wheel arch liner; right,6,1062.07,1306,FH4,Fast-moving,3,6,0,Body,11
+20390840,Front tray rubber gasket,6,759.86,22000,FH13,Fast-moving,0,4,0,Body,11
+21148850,Front grille,6,293.89,17000,FH13,Fast-moving,0,4,0,Body,11
+20806212,Clutch master cylinder,3,178.25,11000,FH12,Medium-moving,0,5,1,Gearbox,11
+21067551,Brake disc,6,860,45000,FH12,Fast-moving,0,4,0,Engine,11
+21228153,Engine mounting,6,1047.53,28000,FH13,Fast-moving,0,6,2,Engine,11
+21347087,Valve,6,193.16,15000,FH13,Fast-moving,0,4,0,Engine,11
+21615194,Exhaust kit,7,2216.34,2726,FH4,Fast-moving,0,1,3,Gearbox,12
+1676400,EXPANSION TANK,5,289.05,22000,FH12,Medium-moving,0,2,2,Body,12
+20851382,GLOVE COMPARTMENT,5,594.26,40000,FH12,Fast-moving,0,0,0,Body,12
+21141850,Exhaust tank clamp,5,61.1,4700,FH12,Dead stock,0,0,0,Gearbox,12
+20826211,Lamp,7,163.19,6000,FH12,Fast-moving,0,5,0,Body,13
+3175928,Door (???) ,7,998.21,60000,FH12,Fast-moving,0,5,0,Body,13
+82214184,Door frame,7,12906.98,15876,FH4,Fast-moving,0,5,0,Body,13
+21247154,Sensor ,7,269.26,16000,FH12,Fast-moving,0,7,2,Gearbox,13
+22431887,Crankshaft rear oil seal,5,8473.16,650000,FH13-440,Fast-moving,0,1,0,Engine,13
+82056091,Door,7,274.38,17000,FH13,Fast-moving,0,6,0,Body,14
+21478755,Lamp,7,437.48,25000,FH13-480,Fast-moving,0,6,0,Body,14
+20529638,FOOT STEP,7,372.07,25000,FH12,Dead stock,0,0,0,Body,14
+1673701,Differential oil seal,8,273.62,16000,FH12,Fast-moving,0,9,2,Gearbox,15
+84139933,panel; right,4,248.25,305,FH4,Medium-moving,1,11,3,Body,15
+82110404,wheel arch liner; left,8,1062.07,1306,FH4,Fast-moving,1,8,0,Body,15
+20456709,Outer sun visor,4,988.42,50000,FH12,Medium-moving,0,9,1,Body,16
+20562642,Sensor ,8,337.23,17000,FH12,Fast-moving,0,8,0,Gearbox,16
+84139886,panel; left,8,248.25,305,FH4,Fast-moving,2,11,1,Body,16
+20451775,Metal oil pan gasket,2,6529.25,300000,FM9,Fast-moving,0,7,0,Engine,17
+20588775,ENGAGING SLEEVE,10,1011.72,100000,FH12,Medium-moving,0,0,0,Gearbox,17
+8171737,Shaft,10,394.8,28000,FH12,Slow-moving,0,4,4,Gearbox,17
+3093230,Metal oil pan gasket,10,180,9000,FH12,Fast-moving,0,0,0,Gearbox,17
+22247766,Front bumper,9,430.89,530,FH4,Fast-moving,5,17,3,Body,17
+21458307,Valve,9,296.27,18000,FH12,Fast-moving,0,10,0,Engine,18
+1521421,Wheel sensor,10,1530.86,175000,FH12,Slow-moving,0,2,1,Gearbox,18
+84096590,mudguard widener; right,10,308.88,380,FH4,Fast-moving,1,13,0,Body,20
+1077574,Rubber filter base bushing,10,454.8,27000,FH12,Fast-moving,0,5,1,Engine,21
+84096591,mudguard widener; left,11,308.88,380,FH4,Fast-moving,1,14,0,Body,21
+82220161,foot step,11,353.04,434,FH4,Fast-moving,2,15,0,Body,22
+82858486,corner panel; left,11,279.18,343,FH4,Fast-moving,6,21,2,Body,22
+21116880,Front bumper guard bracket,12,,55000,FH12,Fast-moving,0,15,0,Body,24
+21448461,lip seal,12,261.79,322,FH4,Fast-moving,0,15,0,Gearbox,24
+20760512,Oil filter base gasket,15,610.98,60000,FH12,Fast-moving,0,2,0,Gearbox,24
+20791305,sealing ring,13,167.71,206,FH4,Fast-moving,0,16,0,Gearbox,25
+3171490,SENSOR,20,343.88,25000,FH12,New product,0,0,2,Gearbox,25
+1656116,Oil pump,20,194.4,10000,FH12,Dead stock,0,0,0,Gearbox,27
+82258426,foot step,14,503.39,619,FH4,Fast-moving,0,19,0,Body,28
+3155040,Oil pressure sensor,30,5041.79,115000,FH12-460,Dead stock,0,0,7,Engine,29
+276948,O-ring kit,15,14.14,17,FH4,Fast-moving,0,28,7,Gearbox,30
+82180491,foot step,15,243.61,300,FH4,Fast-moving,1,22,0,Body,30
+84033228,grille,15,2226.35,2738,FH4,Fast-moving,1,23,1,Body,30
+20561997,Filter water bowl,120,148.86,8000,FH13,Slow-moving,12,0,77,Engine,30
+21838944,Front bumper,16,397.31,489,FH4,Fast-moving,4,26,1,Body,31
+82208510,step; lower,16,1004.88,1236,FH4,Fast-moving,0,23,1,Body,31
+82858516,corner panel; right,16,279.18,343,FH4,Fast-moving,3,25,0,Body,32
+21243844,MAIN SWITCH,25,260.35,24000,FH13,Dead stock,0,0,0,Body,32
+20440409,Exhaust gasket,30,3980.36,100000,FH12-420,Dead stock,0,0,0,Engine,37
+21838945,Front bumper,19,397.31,489,FH4,Fast-moving,0,28,0,Body,38
+82304585,HEADLAMP,40,1357.1,90000,FH13,Fast-moving,0,0,0,Body,47
+82304599,HEADLAMP,40,1357.1,90000,FH13,Fast-moving,0,0,0,Body,47
+1069255,Gear,75,529.79,65000,FH12,Slow-moving,0,4,35,Gearbox,48
+3092575,Oil filter base gasket,50,163.77,12000,FH12,Fast-moving,0,0,0,Gearbox,57
+8149182,Engine body,50,155.51,10000,FH12,Fast-moving,0,0,0,Engine,57
+20710229,Oil filter base gasket,50,269.06,14000,FH12,Fast-moving,0,2,0,Engine,59
+21829051,BUMPER,50,465.04,33000,FH12,Fast-moving,0,3,0,Body,60
+21249472,MOULDING,50,273.66,22000,FH13,Fast-moving,0,5,0,Body,63
+21351717,Oil filter base gasket,120,110.64,6500,FH13,Fast-moving,18,36,78,Engine,63
+20459326,Exhaust tank clamp,120,134.49,2500,FH12,Dead stock,0,3,61,Engine,63
+21829052,BUMPER,50,465.04,33000,FH12,Fast-moving,0,7,1,Body,64
+21828914,BUMPER,50,562.37,60000,FH12,Fast-moving,0,7,0,Body,65
+20509932,O-ring bushing,60,425.89,20000,FH12,Dead stock,0,0,2,Engine,65
+20453900,Fender,36,441.09,20000,FH12,Fast-moving,0,69,10,Body,72
+20740798,Intake valve,120,168.41,7000,FH13,Slow-moving,12,0,36,Engine,75
+20476025,Piston ring kit,75,163.86,15000,FH12,Fast-moving,0,0,0,Gearbox,82
+3169573,Crankshaft rear oil seal,53,32.14,1000,FH12,Fast-moving,0,89,0,Gearbox,105
+85108352,CRANKSHAFT SEAL,100,191.19,18000,FH12,Slow-moving,0,0,0,Engine,107
+20768519,Exhaust valve,120,168.02,7000,FH13,Slow-moving,0,0,12,Engine,114
+20441486,Exhaust valve,120,170.69,2500,FH12,Slow-moving,0,3,9,Engine,120
+276949,Exhaust gasket,120,298.69,20000,FH12,Dead stock,0,0,0,Engine,127
+20515059,Alternator belt,120,2119.7,120000,FH12,Fast-moving,0,0,0,Engine,127
+20779040,Gear box filter,70,86.02,106,FH13-480,Fast-moving,433,559,45,Lubricant,139
+8170959,Power steering pump,150,26.01,1200,FH12,Fast-moving,0,21,0,Engine,180
+349619,Filter,103,27.89,750,FH12,Fast-moving,266,481,58,Lubricant,206
+21510072,Crankshaft rear oil seal,100,446.97,28000,FH13,Fast-moving,4,99,0,Engine,212
+85124276,Injector bushing,120,96.52,6000,FH12,Medium-moving,0,93,6,Engine,223
+20430583,Turbocharger,60,2831.67,100000,FH12,Fast-moving,12,189,9,Engine,253
+20503200,Water pipe seal,300,96.05,9000,FH12,Fast-moving,0,0,0,Engine,307
+20867177,Exhaust kit,300,72.15,5000,FM,Fast-moving,0,17,12,Engine,313
+1069254,Water pipe seal,350,147.07,12000,FH12,Fast-moving,0,0,0,Gearbox,357
+21209650,Piston and sleeve,360,2216.05,150000,FH13,Medium-moving,0,12,18,Engine,360
+21523462,Piston and sleeve,360,2216.05,150000,FH13-440,Medium-moving,6,0,0,Engine,361
+21707134,Filter,188,52.2,3200,ALL,Fast-moving,642,984,66,Lubricant,375
+21834205,FILTER,500,430.7,26000,FH13,Fast-moving,296,707,555,Lubricant,378
+20919484,Brass connector,240,30.86,1500,FH12,Fast-moving,72,240,0,Engine,439
+21948261,Engine mounting,500,323.28,12000,FH12,Fast-moving,0,0,0,Engine,507
+20867178,Piston ring kit,350,59.19,3000,FM,Fast-moving,0,158,14,Engine,515
+3183283,VALVE GUIDE,600,31.24,3500,FM,Slow-moving,24,3,26,Engine,558
+276630,Bearing,1800,50.27,3000,FH12,Slow-moving,42,0,1087,Engine,569
+21834199,FILTER INSERT,600,334.61,26000,FM9,Fast-moving,123,227,148,Lubricant,571
+21041297,AIR FILTER,500,357.53,23000,FH12,Fast-moving,105,363,102,Lubricant,689
+3099100,Diesel return valve,300,371.46,22000,FH12,Fast-moving,5,370,4,Engine,705
+21834210,FILTER INSERT,500,385.4,23000,FH12,Fast-moving,175,514,161,Lubricant,720
+20998367,Water separator filter 12,271,149.6,5500,FH12,Medium-moving,5,1046,63,Lubricant,1083
+21707133,Filter,591,67.78,3600,ALL,Fast-moving,2595,3748,321,Lubricant,1182
+20580558,Engine choke valve,900,90.81,3800,FH13,Fast-moving,0,319,62,Engine,1190
+21707132,Filter,671,62.43,3700,ALL,Fast-moving,1316,2538,128,Lubricant,1342
+276134,Bearing,1800,69.74,3500,FH12,Medium-moving,0,823,24,Engine,2686
+20530916,Engine belt,3150,69.65,3500,FH12-FH13,Fast-moving,35,0,35,Engine,3084
+21501189,Front engine tray rubber gasket,3000,3.85,300,FH12,Fast-moving,0,124,5,Engine,3138
