@@ -72,7 +72,7 @@ It is built using **Python**, **Pandas**, and **Streamlit**, and can be used by 
 
 ## Requirements
 
-Make sure to install packages listed in `requirements.txt`. (Let me know if you want this file generated.)
+Make sure to install packages listed in `requirements.txt`. 
 
 ---
 
@@ -86,5 +86,5 @@ This project is for demonstration and educational use. For any business use or e
 
 **Hoda Rezvanjoo**  
 Insight Analyst | Data Storyteller | Digital Optimiser  
-[LinkedIn](https://www.linkedin.com/in/rezashayanfar/)  
+[LinkedIn](https://www.linkedin.com/in/hoda-rezvanjoo/)  
 
